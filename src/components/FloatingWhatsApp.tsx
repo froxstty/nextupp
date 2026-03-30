@@ -4,7 +4,7 @@ import { MessageSquare } from "lucide-react";
 
 const FloatingWhatsApp = () => {
   const [visible, setVisible] = useState(false);
-  const whatsappUrl = "https://wa.me/5500000000000?text=Olá! Vim pelo site da NextUp.";
+  const whatsappUrl = "https://wa.me/5512997105804?text=Olá! Vim pelo site da NextUp.";
 
   useEffect(() => {
     const timer = setTimeout(() => setVisible(true), 3000);

@@ -5,7 +5,7 @@ import MagneticButton from "@/components/MagneticButton";
 import heroMockup from "@/assets/hero-mockup.png";
 
 const HeroSection = () => {
-  const whatsappUrl = "https://wa.me/5500000000000?text=Olá! Gostaria de solicitar uma consultoria.";
+  const whatsappUrl = "https://wa.me/5512997105804?text=Olá! Gostaria de solicitar uma consultoria.";
 
   return (
     <section className="relative min-h-screen flex items-center justify-center overflow-hidden px-4 pt-20">

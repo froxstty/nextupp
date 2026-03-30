@@ -17,7 +17,7 @@ const Navbar = () => {
           <a href="#resultados" className="hover:text-foreground transition-colors">Resultados</a>
           <a href="#portfolio" className="hover:text-foreground transition-colors">Portfólio</a>
           <a
-            href="https://wa.me/5500000000000"
+            href="https://wa.me/5512997105804?text=Olá! Gostaria de saber mais sobre os serviços da NextUp."
             target="_blank"
             rel="noopener noreferrer"
             className="px-4 py-2 rounded-lg bg-primary/10 border border-primary/20 text-primary hover:bg-primary/20 transition-colors font-medium"
