@@ -4,7 +4,7 @@ import { Button } from "@/components/ui/button";
 import { MessageSquare, ArrowRight } from "lucide-react";
 
 const CTASection = () => {
-  const whatsappUrl = "https://wa.me/5500000000000?text=Olá! Gostaria de elevar minha presença digital.";
+  const whatsappUrl = "https://wa.me/5512997105804?text=Olá! Gostaria de elevar minha presença digital.";
 
   return (
     <section className="relative py-32 px-4">
